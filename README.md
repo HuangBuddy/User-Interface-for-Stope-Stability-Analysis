@@ -2,6 +2,7 @@
 Interactive GUI for underground stope stability evaluation in the classic hydraulic radius-stability number coordinate space
 GUI Usage Guide—Stope Stability analysis with MLP + Residual Kriging
 	Environment & Dependencies
+
 — OS: Windows 10/11, macOS, or Linux
 — Necessary packages (Python 3): numpy, pandas, scikit-learn, matplotlib, seaborn, pillow, pykrige
 — Install example: pip install numpy pandas scikit-learn matplotlib seaborn pillow pykrige
