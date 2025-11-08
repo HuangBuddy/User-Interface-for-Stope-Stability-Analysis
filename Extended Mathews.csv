@@ -1,0 +1,427 @@
+Q,Jn,Ja,A,B,C,HR,N,Stability,Unnamed: 9,Location,Source
+0.4,6,2,0.1,0.5,6.904958745,3.5,0.14,1,,,"Marc Ruest, ITASCA"
+0.4,6,2,0.1,0.5,6.904958745,4,0.14,1,,,"Marc Ruest, ITASCA"
+0.5,5,0.1,1,0.5,5.61,9,1.4,1,,Nickson,From Nickson's thesis 1992
+0.5,5,0.1,1,0.5,5.61,11.3,1.4,1,,Nickson,From Nickson's thesis 1992
+0.8,6,2,0.1,1,8,3.1,0.67,1,,,"Marc Ruest, ITASCA"
+0.8,6,2,0.1,1,8,3.1,0.67,1,,,"Marc Ruest, ITASCA"
+0.8,6,2,0.1,0.5,7.146914596,3.5,0.3,1,,,"Marc Ruest, ITASCA"
+1.2,6,2,0.1,1,8,1.2,0.93,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+1.2,6,2,0.1,1,8,1.2,0.93,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+1.2,6,2,0.1,0.3,1,2.2,0.04,1,,,"Marc Ruest, ITASCA"
+1.3,6,2,0.1,0.5,9.095041255,3.3,0.57,1,,,"Marc Ruest, ITASCA"
+1.4,6,2,0.1,1,8,3,1.13,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+1.4,6,2,0.1,1,8,3,1.13,1,,,"Marc Ruest, ITASCA"
+1.7,6,2,0.1,0.5,7.146914596,3.2,0.6,1,,,"Marc Ruest, ITASCA"
+2,6,2,0.1,1,8,1.2,1.6,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2,6,2,0.1,0.3,1,1.6,0.06,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2,4,0.5,1,0.5,8,4.5,8,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2,6,2,0.1,0.5,6.42534262,3.4,0.64,1,,,"Marc Ruest, ITASCA"
+2,6,2,0.1,0.5,6.904958745,3.4,0.69,1,,,"Marc Ruest, ITASCA"
+2,4,0.5,1,0.5,8,19,8,1,,Nickson,From Nickson's thesis 1992
+2.22,15,3,0.89,0.4,1,23.8,0.79,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2.22,15,3,0.93,0.4,1,25.8,0.83,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2.22,15,3,0.98,0.4,1,35.2,0.87,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2.3,6,2,0.1,0.3,1,2,0.07,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2.5,6,2,0.1,0.3,1,1,0.08,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+2.5,6,2,0.1,0.5,6.784462756,3.7,0.85,1,,,"Marc Ruest, ITASCA"
+3,3,1,1,0.3,8,20,7.2,1,,Nickson,From Nickson's thesis 1992
+3.1,8.33,0.38,1,0.5,5.61,4.9,8.69,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+3.2,4,0.8,0.3,0.3,8,4.7,2.3,1,,Potvin,From Potvin's thesis 2065
+4.2,7,0.6,1,0.5,6.19,9.1,13,1,,Potvin,From Potvin's thesis 2066
+5,5,1,0.1,0.3,1,1.9,0.15,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+5.1,15,1.6,0.29,0.35,1,22.5,0.52,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+5.26,12,2.85,0.29,0.35,1,27,0.53,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+5.83,9,2,0.54,0.4,6.2,6.8,7.75,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+5.89,12,1.5,0.36,1,1.1,7,2.35,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+5.9,3.67,1.62,1,0.3,4.5,16.4,7.97,1,,Mathews - Geco Mine,
+6,6,1,1,0.4,8,5.6,19.2,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+6,9,2,0.74,0.3,8,5.8,10.59,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+6,15,1,1,0.8,6.8,6.4,32.57,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+6,6,1,1,0.5,6.78,6.7,20.35,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+6,6,1,1,0.4,8,6.7,19.2,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+6,15,1,1,0.3,7.4,7.1,13.3,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+6,6,1,1,0.5,5.61,6.9,16.82,1,,Mathews - Heath Steele,From Mathews et al 1980.
+6,6,1,0.1,0.5,8,7.7,2.4,1,,Potvin,From Potvin's thesis 2063
+6,6,1,0.2,0.5,8,8.9,4.8,1,,Potvin,From Potvin's thesis 2062
+6.3,25,0.25,0.1,0.8,1,4.2,0.5,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+6.33,9,2,0.6,0.4,6.2,7.1,9.33,1,,Potvin,From Potvin's thesis 2057
+6.5,7.5,2,0.35,0.8,8,6.3,14.68,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+7.11,9,2,0.39,1,8,6.3,22.15,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+7.2,15,1,0.23,0.8,1,4.5,1.34,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+7.2,5,1.44,1,0.3,3.89,5.2,8.39,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+7.2,5,1.44,1,0.3,4.09,5.9,8.83,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+8,8,1,0.3,0.4,1,1.8,0.96,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+8,8,1,0.1,0.4,1,1.9,0.32,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+8,8,1,1,0.5,5.15,5.3,20.61,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+8,8,1,1,0.5,4.82,5.7,19.29,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+8,8,1,1,0.5,5.61,7.5,22.42,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+8,8,1,0.1,0.4,1,2.1,0.32,1,,Nickson,From Nickson's thesis 1992
+8,8,1,0.1,0.4,1,2.3,0.32,1,,Nickson,From Nickson's thesis 1992
+8,8,1,1,0.5,5.61,8.1,22.42,1,,Nickson,From Nickson's thesis 1992
+8.3,12.5,0.67,1,0.5,4.5,10.4,18.68,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+8.67,12,1.5,0.39,1,8,6.2,26.99,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+8.73,12,1.26,0.62,0.35,1,21,1.89,1,,Potvin,From Potvin's thesis 1995
+8.73,12,1.26,0.63,0.35,1,28,1.93,1,,Potvin,From Potvin's thesis 1996
+8.73,12,1.26,0.63,0.35,1,30,1.93,1,,Potvin,From Potvin's thesis 1997
+8.73,12,1.26,0.63,0.35,1,33,1.93,1,,Potvin,From Potvin's thesis 1998
+8.73,12,1.26,0.63,0.35,1,37,1.93,1,,Potvin,From Potvin's thesis 1999
+8.73,12,1.26,0.63,0.35,1,37,1.93,1,,Potvin,From Potvin's thesis 2000
+8.73,12,1.26,0.63,0.35,1,42,1.93,1,,Potvin,From Potvin's thesis 2001
+8.83,10,1.5,1,1,8,11,70.67,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+9,6,1.5,1,0.3,8,8.5,21.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+9,6,1.5,0.9,0.3,4.5,9,10.94,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+9,6,1.5,0.6,0.5,1.42,10.5,3.84,1,,Nickson,From Nickson's thesis 1992
+9.21,3.5,2,0.92,0.8,8,7.9,54.23,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+10,10,1,1,0.5,4.39,10.3,21.97,1,,Mathews - Geco Mine,
+10.5,7,1.5,1,1,3.05,7.1,32.03,1,,Potvin,From Potvin's thesis 2064
+12,8,1.5,1,0.5,8,7.6,48,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+12,7.6,1.5,0.48,0.3,7.4,8,12.77,1,,Potvin,From Potvin's thesis 2055
+12.33,6,2,1,0.3,5,5.4,18.65,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+12.86,7,1,0.24,0.4,8,8.7,9.98,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+13.1,5.47,2.4,1,0.3,8,7,31.44,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+13.3,13.33,1,0.1,0.3,5.61,5.2,2.24,1,,Mathews - Heath Steele,From Mathews et al 1980.
+13.3,13.33,1,0.1,0.3,7.27,6.2,2.9,1,,Mathews - Heath Steele,From Mathews et al 1980.
+13.3,3,3,0.47,0.5,8,9.1,25.07,1,,,"Marc Ruest, ITASCA"
+13.3,9,0.75,0.73,0.5,1,17.4,4.87,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+13.5,9,1.5,1,0.4,8,9.9,43.2,1,,Mathews - Heath Steele,From Mathews et al 1980.
+14.83,3,2,1,1,8,9.5,118.67,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+15,3,2,1,0.3,6.8,5.2,30.53,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+15,6.4,1.5,1,0.4,8,8.7,48,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+15.08,3,2,1,1,8,4.8,120.67,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+15.8,7.5,2.1,0.1,0.3,5.61,1.3,2.66,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+15.8,7.5,2.1,0.1,0.3,4.39,1.8,2.08,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+16,8,2,0.1,0.5,1,7.6,0.8,1,,Nickson,From Nickson's thesis 1992
+16.2,9,1.8,1,0.4,8,8.4,51.84,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+16.29,7,1,0.24,0.3,8,5.9,9.48,1,,Potvin,From Potvin's thesis 2060
+16.5,11,1.5,1,0.3,1,1.8,4.95,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+16.5,11,1.5,1,0.3,1,2.1,4.95,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+16.5,11,1.5,1,0.4,3.98,4.7,26.3,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+16.5,6,1,1,1,6.8,7.1,111.94,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+16.5,6,1,1,0.8,7.4,7.1,97.55,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+16.5,10,1,0.72,0.3,7.4,7.6,26.34,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+16.5,11,1.5,1,0.4,3.98,8.8,26.3,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+16.5,6,1,1,0.5,8,10.3,66,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+16.5,6,1,0.54,0.3,8,10.3,21.26,1,,Potvin,From Potvin's thesis 2058
+17.25,6,2,1,1,8,5.7,138,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+18.06,9.3,1,0.61,0.8,1,6.8,8.82,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+18.5,4,2,0.74,1,8,5.5,108.82,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+18.5,6,1,1,1,7.8,6.9,143.48,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+18.63,6,2,0.6,0.3,8,7.3,26.74,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+19.11,3.6,2.5,1,0.8,5.6,5.8,85.71,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+19.25,6,1,0.46,0.8,8,7.4,56.67,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+19.5,6,1,0.48,0.8,1,4.9,7.41,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+20,6,0.75,0.49,0.5,1,6.1,4.9,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+20,6,0.75,0.27,0.5,1,6.4,2.7,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+20,6,0.75,0.51,0.5,1,15.2,5.1,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+20.75,3,2,0.48,1,1,2.5,10.05,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+21,14,1.5,1,0.5,8,9.9,84,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+21,14,1.5,0.1,0.8,1,8.6,1.68,1,,Nickson,From Nickson's thesis 1992
+21.11,6,1.5,1,0.5,8,5.9,84.44,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+21.11,6,1.5,1,0.5,8,10.6,84.44,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+21.5,10.22,2.1,1,0.5,5.61,6.1,60.26,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+21.5,10.22,2.1,1,0.3,4.39,6.1,28.35,1,,Mathews - Heath Steele,
+22,11,2,0.7,0.5,1,5,7.7,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+22.75,3,2,0.33,0.3,8,5.5,17.82,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+23.25,8,1,0.74,0.8,6.8,6.5,92.79,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+23.75,6,1,1,0.5,3.5,39,41.56,1,,Potvin,From Potvin's thesis 2002
+24,16,1.5,0.1,0.5,8,4.9,9.6,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+24,6,1,0.35,0.4,8,8.4,27.11,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+24.67,6,1,0.6,0.3,8,5.9,35.22,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+24.67,6,1,0.6,1,5.6,6,82.28,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+24.8,5,1,0.24,0.4,8,8.8,19.26,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+25,10,2.5,0.1,0.3,1,3.4,0.75,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+25.33,6,1,0.48,1,8,8.4,96.27,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+25.5,17,1.5,1,0.5,5.61,7.5,71.47,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+25.5,17,1.5,1,0.5,5.61,7.5,71.47,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+25.6,5,1,0.24,0.4,8,5.9,19.88,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+25.67,6,1,0.48,0.3,8,8.4,29.26,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+26,13,2,0.6,0.4,1,2.1,6.24,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+26,13,2,0.5,0.4,1,2.4,5.2,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+26,13,2,0.4,0.4,1,2.9,4.16,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+26,13,2,0.3,0.4,1,3,3.12,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+26,13,2,0.4,0.4,1,3.1,4.16,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+26.55,5.5,1,0.55,0.3,8,10.9,35.04,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+27,18,1.5,1,0.4,1.94,5.4,20.93,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27,18,1.5,0.5,0.4,1.42,7.3,7.68,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27,18,1.5,1,0.4,1.94,7.7,20.93,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27,18,1.5,0.5,0.4,1.42,9.9,7.68,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27,18,1.5,0.5,0.4,1.42,11.1,7.68,1,,Mathews - Heath Steele,From Mathews et al 1980.
+27,18,1.5,0.5,0.3,8,11.6,32.4,1,,Mathews - Heath Steele,From Mathews et al 1980.
+27,18,1.5,1,0.4,1.94,12.5,20.93,1,,Mathews - Heath Steele,From Mathews et al 1980.
+27,18,1.5,1,0.4,1.94,15,20.93,1,,Mathews - Heath Steele,From Mathews et al 1980.
+27,18,1.5,1,0.4,1.94,15.9,20.93,1,,Mathews - Heath Steele,From Mathews et al 1980.
+27.78,9,1,1,1,1,32.1,27.78,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,1,1,1,33.6,27.78,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,1,1,1,34.8,27.78,1,,Potvin,From Potvin's thesis 1988
+27.78,9,1,1,1,1,38.7,27.78,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,1,1,1,41.2,27.78,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,1,1,1,42,27.78,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,0.56,1,1,46,15.63,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,0.59,1,1,46,16.28,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,1,1,1,47.6,27.78,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,0.8,1,1,48.8,22.18,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,0.58,1,1,50.7,16.06,1,,Potvin,From Potvin's thesis 1989
+27.78,9,1,0.61,1,1,51.5,16.99,1,,Potvin,From Potvin's thesis 1990
+27.78,9,1,0.61,1,1,52.4,16.99,1,,Potvin,From Potvin's thesis 1991
+27.78,9,1,0.58,1,1,53.4,16.06,1,,Potvin,From Potvin's thesis 1992
+27.78,9,1,0.87,1,1,53.7,24.25,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+27.78,9,1,0.58,1,1,54.4,16.06,1,,Potvin,From Potvin's thesis 1993
+27.78,9,1,0.58,1,1,54.8,16.06,1,,Potvin,From Potvin's thesis 1994
+27.78,9,1,0.59,1,1,54.9,16.28,1,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+29.33,3,2,0.33,0.3,8,4.3,22.88,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+29.67,3,2,0.14,0.3,8,4.5,10.17,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+30,15,2,1,0.4,1,6.7,12,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+30,15,2,1,0.5,6.78,8.3,101.77,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+30,30,1,1,0.4,8,8.8,96,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+30,15,2,1,0.5,8,18,120,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+30,3,1,0.47,0.5,8,9.1,56.4,1,,,"Marc Ruest, ITASCA"
+30,15,2,0.4,0.4,1,10,4.8,1,,Nickson,From Nickson's thesis 1993
+30.38,4,1,0.1,0.8,8,5.7,19.44,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+31,3,2,0.69,1,8,9,169.88,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+31.6,5,1,0.24,0.5,8,8.7,30.67,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+31.88,4,1,0.91,1,8,6.8,231.58,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+32,16,2,0.1,0.4,8,5.6,10.24,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+32,6,1,0.54,0.5,6.8,9,58.27,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+32,16,2,1,0.4,8,9.7,102.4,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+32.25,4,1,0.48,1,1,4.3,15.32,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.23,0.35,5,5.2,13.28,0,,West Wallsend,Field trip to Newcastle
+33,6,0.75,1,0.35,8,5.9,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.24,0.5,8,6.9,31.68,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.1,0.9,8,6.9,23.76,0,,North Parkes,Information from A.van As re u/c size. 
+33,6,0.75,0.28,0.5,8,7.1,36.96,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.9,0.5,8,7.1,118.8,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,7.6,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,7.6,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.7,0.35,6,7.8,48.51,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,7.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.23,0.35,7,7.9,18.6,0,,West Wallsend,Field trip to Newcastle
+33,6,0.75,1,0.35,1,8,11.55,0,,Moonee,Field trip to Newcastle
+33,6,0.75,0.21,0.85,8,8,47.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.21,0.85,8,8,47.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.3,0.85,8,8,67.32,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.63,0.85,8,8,141.37,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.7,0.85,8,8,157.08,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.85,8,8,224.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.85,8,8,224.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.15,0.8,5,8.1,19.8,0,,North Parkes,Information from A.van As re u/c size. 
+33,6,0.75,0.34,0.6,7,8.1,47.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.73,0.5,8,8.3,96.36,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.23,0.5,8,8.5,30.36,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,8.5,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.69,0.5,8,8.6,91.08,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,8.6,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.36,0.35,7,8.9,29.11,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.36,0.35,7,8.9,29.11,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.36,0.35,8,8.9,33.26,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.36,0.35,8,8.9,33.26,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.85,8,8.9,224.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.29,0.5,8,9,38.28,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.12,0.4,1,9.1,1.58,0,,El Teniente,El Teniente Mine
+33,6,0.75,0.19,0.35,8,9.6,17.56,0,,West Wallsend,Field trip to Newcastle
+33,6,0.75,0.23,0.35,8,9.6,21.25,0,,North Parkes,Information from A.van As re u/c size. 
+33,6,0.75,0.28,0.35,8,9.6,25.87,0,,North Parkes,Information from A.van As re u/c size. 
+33,6,0.75,0.28,0.35,8,9.6,25.87,0,,Sth Crofty,Experience - R. Trueman
+33,6,0.75,0.47,0.35,8,9.6,43.43,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.81,0.35,8,9.6,74.84,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.35,8,9.6,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.27,0.5,8,9.8,35.64,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.27,0.5,8,9.8,35.64,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.27,0.5,8,9.8,35.64,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.35,1,10,11.55,0,,Moonee,Field trip to Newcastle
+33,6,0.75,0.44,0.5,5,10.5,36.3,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.53,0.4,8,10.5,55.97,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.4,0.6,8,10.5,63.36,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.86,0.35,1,10.6,9.93,0,,Newstan,Field trip to Newcastle
+33,6,0.75,0.37,0.5,8,10.6,48.84,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.91,0.5,8,10.6,120.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.1,0.35,8,10.7,9.24,0,,Henderson,Literature. Rech & Watson. SME.
+33,6,0.75,0.1,0.35,8,10.7,9.24,0,,Henderson,Literature. Rech & Watson. SME.
+33,6,0.75,0.1,0.35,8,10.7,9.24,0,,Newstan,Field trip to Newcastle
+33,6,0.75,0.11,0.4,8,10.7,11.62,0,,Moonee,Field trip to Newcastle
+33,6,0.75,0.11,0.4,8,10.7,11.62,0,,Moonee,Field trip to Newcastle
+33,6,0.75,0.15,0.4,8,10.7,15.84,0,,West Wallsend,Field trip to Newcastle
+33,6,0.75,1,0.5,8,10.7,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,10.7,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,10.7,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.24,0.4,1,10.8,3.17,0,,El Teniente,El Teniente Mine
+33,6,0.75,0.25,0.8,5,10.8,33,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.28,0.8,5,10.8,36.96,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.44,0.8,6,10.8,69.7,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.44,0.35,8,10.8,40.66,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.45,0.35,8,10.8,41.58,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.47,0.4,8,10.8,49.63,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.44,0.5,8,10.8,58.08,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,10.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,10.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.51,0.4,8,10.9,53.86,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.26,0.5,8,10.9,34.32,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.51,0.5,8,10.9,67.32,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.63,0.5,8,10.9,83.16,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.12,0.35,8,11,11.09,0,,Newstan,Field trip to Newcastle
+33,6,0.75,0.53,0.35,8,11,48.97,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.35,8,11,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.1,0.5,8,11,13.2,0,,Moonee,Field trip to Newcastle
+33,6,0.75,0.63,0.35,8,11.1,58.21,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.14,0.4,8,11.1,14.78,0,,West Wallsend,Field trip to Newcastle
+33,6,0.75,1,0.5,8,11.1,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.1,0.35,8,11.3,9.24,0,,Newstan,Field trip to Newcastle
+33,6,0.75,0.21,0.4,8,11.3,22.18,0,,North Parkes,Information from A.van As re u/c size. 
+33,6,0.75,0.28,0.4,7,11.4,25.87,0,,North Parkes,Information from A.van As re u/c size. 
+33,6,0.75,1,0.35,8,11.6,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.86,0.5,8,11.6,113.52,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.12,0.45,7,11.7,12.47,0,,Moonee,Field trip to Newcastle
+33,6,0.75,0.27,0.45,7,11.7,28.07,0,,Sth Crofty,Experience - R. Trueman
+33,6,0.75,1,0.4,8,11.7,105.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.45,8,11.7,118.8,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.35,1,11.8,11.55,0,,West Wallsend,Field trip to Newcastle
+33,6,0.75,0.36,0.5,8,11.8,47.52,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.45,0.5,8,11.8,59.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.7,0.5,8,11.8,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,11.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.35,1,11.9,11.55,0,,Moonee,Field trip to Newcastle
+33,6,0.75,0.41,0.8,5,11.9,54.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.69,0.35,8,11.9,63.76,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.55,0.5,8,12,72.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.45,0.5,5,12.1,37.13,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.45,0.9,8,12.1,106.92,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.28,0.45,7,12.3,29.11,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,12.4,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.7,0.5,8,12.8,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.7,0.5,8,12.8,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.81,0.5,8,12.8,106.92,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,12.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,12.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,12.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,12.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,12.8,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.1,0.35,8,12.9,9.24,0,,Newstan,Field trip to Newcastle
+33,6,0.75,1,0.5,8,13,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.45,0.35,1,13.2,5.2,0,,El Teniente,El Teniente Mine
+33,6,0.75,1,0.5,8,13.7,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,13.7,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.44,0.35,8,13.9,40.66,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.58,0.35,8,13.9,53.59,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.58,0.35,8,13.9,53.59,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.58,0.35,8,13.9,53.59,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.44,0.4,8,13.9,46.46,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.58,0.4,8,13.9,61.25,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.58,0.4,8,13.9,61.25,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.58,0.4,8,13.9,61.25,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,14,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,14.5,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,14.5,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,14.7,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,14.7,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,15.3,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.66,0.5,8,15.6,87.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.66,0.5,8,15.6,87.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,15.9,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.97,0.5,8,16.2,128.04,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.5,8,16.2,132,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.77,0.5,8,16.4,101.64,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.18,0.4,8,16.7,19.01,0,,North Parkes,Information from A.van As re u/c size. 
+33,6,0.75,1,0.35,8,17.3,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.35,8,17.3,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.35,8,17.3,92.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.91,0.8,5,17.9,120.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.91,0.8,5,17.9,120.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.91,0.8,5,17.9,120.12,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.45,0.4,8,19.3,47.52,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.34,0.45,8,19.3,40.39,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.24,0.45,8,21.3,28.51,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.4,8,23.7,105.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.45,8,23.7,118.8,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.4,8,24,105.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.45,8,24,118.8,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.4,8,24.6,105.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.45,8,24.6,118.8,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.53,0.45,8,24.8,62.96,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.45,8,25.1,118.8,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.4,8,25.2,105.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,1,0.45,8,25.2,118.8,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+33,6,0.75,0.34,0.4,1,5,4.49,1,,Potvin,From Potvin's thesis 2026
+33,6,0.75,0.34,0.4,1,5,4.49,1,,Potvin,From Potvin's thesis 2027
+33,6,0.75,0.34,0.4,1,5,4.49,1,,Potvin,From Potvin's thesis 2028
+33,6,0.75,0.24,0.4,1,7.7,3.17,1,,Potvin,From Potvin's thesis 2014
+33,6,0.75,0.24,0.4,1,7.7,3.17,1,,Potvin,From Potvin's thesis 2015
+33,6,0.75,0.2,0.4,1,8.9,2.64,1,,Potvin,From Potvin's thesis 2012
+33,6,0.75,0.12,0.4,1,9,1.58,1,,Potvin,From Potvin's thesis 2007
+33,6,0.75,0.12,0.4,1,9.9,1.58,1,,Potvin,From Potvin's thesis 2008
+33,6,0.75,0.21,0.4,1,10,2.77,1,,Potvin,From Potvin's thesis 2013
+33,6,0.75,0.1,0.4,1,10.3,1.32,1,,Potvin,From Potvin's thesis 2003
+33,6,0.75,1,0.5,8,10.3,132,1,,Potvin,From Potvin's thesis 2052
+33,6,0.75,1,0.4,1,10.4,13.2,1,,Potvin,From Potvin's thesis 2038
+33,6,0.75,0.12,0.4,1,10.6,1.58,1,,Potvin,From Potvin's thesis 2009
+33,6,0.75,0.55,0.5,8,10.6,72.6,1,,Potvin,From Potvin's thesis 2046
+33,6,0.75,0.3,0.4,1,10.7,3.96,1,,Potvin,From Potvin's thesis 2023
+33,6,0.75,0.25,0.4,1,10.8,3.3,1,,Potvin,From Potvin's thesis 2016
+33,6,0.75,0.25,0.4,1,10.8,3.3,1,,Potvin,From Potvin's thesis 2017
+33,6,0.75,0.25,0.4,1,10.8,3.3,1,,Potvin,From Potvin's thesis 2018
+33,6,0.75,0.25,0.4,1,10.8,3.3,1,,Potvin,From Potvin's thesis 2019
+33,6,0.75,0.27,0.4,1,10.8,3.56,1,,Potvin,From Potvin's thesis 2022
+33,6,0.75,0.47,0.4,8,10.8,49.63,1,,Potvin,From Potvin's thesis 2042
+33,6,0.75,0.53,0.4,1,10.9,7,1,,Potvin,From Potvin's thesis 2030
+33,6,0.75,0.53,0.4,1,10.9,7,1,,Potvin,From Potvin's thesis 2031
+33,6,0.75,0.6,0.4,1,11.1,7.92,1,,Potvin,From Potvin's thesis 2034
+33,6,0.75,0.33,0.4,1,11.4,4.36,1,,Potvin,From Potvin's thesis 2025
+33,6,0.75,0.37,0.4,1,11.5,4.88,1,,Potvin,From Potvin's thesis 2029
+33,6,0.75,0.18,0.4,1,11.6,2.38,1,,Potvin,From Potvin's thesis 2010
+33,6,0.75,1,0.35,1,11.7,11.55,1,,Potvin,From Potvin's thesis 2033
+33,6,0.75,0.1,0.35,8,11.7,9.24,1,,Potvin,From Potvin's thesis 2035
+33,6,0.75,0.1,0.35,8,11.7,9.24,1,,Potvin,From Potvin's thesis 2036
+33,6,0.75,0.32,0.4,1,11.8,4.22,1,,Potvin,From Potvin's thesis 2024
+33,6,0.75,0.1,0.4,1,12,1.32,1,,Potvin,From Potvin's thesis 2004
+33,6,0.75,0.11,0.4,1,12,1.45,1,,Potvin,From Potvin's thesis 2006
+33,6,0.75,0.25,0.4,1,12.1,3.3,1,,Potvin,From Potvin's thesis 2020
+33,6,0.75,0.25,0.4,1,12.2,3.3,1,,Potvin,From Potvin's thesis 2021
+33,6,0.75,0.53,0.4,1,12.5,7,1,,Potvin,From Potvin's thesis 2032
+33,6,0.75,0.18,0.4,1,14.2,2.38,1,,Potvin,From Potvin's thesis 2011
+33,6,0.75,0.47,0.5,8,15.2,62.04,1,,Potvin,From Potvin's thesis 2045
+33,6,0.75,0.1,0.4,1,15.6,1.32,1,,Potvin,From Potvin's thesis 2005
+33,6,0.75,0.66,0.5,8,15.6,87.12,1,,Potvin,From Potvin's thesis 2049
+33,6,0.75,1,0.5,8,16.3,132,1,,Potvin,From Potvin's thesis 2053
+33,6,0.75,0.1,0.45,8,16.7,11.88,1,,Potvin,From Potvin's thesis 2037
+33,6,0.75,0.22,0.5,8,17.3,29.04,1,,Potvin,From Potvin's thesis 2040
+33,6,0.75,0.55,0.5,8,18.3,72.6,1,,Potvin,From Potvin's thesis 2047
+33,6,0.75,0.55,0.5,8,20.1,72.6,1,,Potvin,From Potvin's thesis 2048
+33,6,0.75,1,0.5,8,20.3,132,1,,Potvin,From Potvin's thesis 2054
+33,6,0.75,0.18,0.5,8,21.3,23.76,1,,Potvin,From Potvin's thesis 2039
+33,6,0.75,0.45,0.4,8,24.8,47.52,1,,Potvin,From Potvin's thesis 2041
+33,6,0.75,1,0.4,8,25.1,105.6,1,,Potvin,From Potvin's thesis 2051
+33,6,0.75,0.97,0.4,8,26.3,102.43,1,,Potvin,From Potvin's thesis 2050
+33,6,0.75,0.51,0.4,8,27.4,53.86,1,,Potvin,From Potvin's thesis 2043
+33,6,0.75,0.58,0.4,8,31.5,61.25,1,,Potvin,From Potvin's thesis 2044
+33.43,7,1,1,0.3,8,9.5,80.23,1,,Potvin,From Potvin's thesis 2056
+33.6,5,1,0.35,0.4,8,9.2,37.95,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+34,17,2,1,0.3,1,4.1,10.2,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+34,17,2,1,0.4,8,7.6,108.8,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+34,17,2,1,0.3,4.5,9,45.9,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+34,17,2,1,0.3,1,10.5,10.2,1,,Potvin,From Potvin's thesis 2069
+34,17,2,1,0.3,1,11.3,10.2,1,,Potvin,From Potvin's thesis 2070
+34,17,2,1,0.3,1,12.2,10.2,1,,Potvin,From Potvin's thesis 2071
+34.88,2,2,0.72,1,8,5.5,200.53,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+37,6,1,0.54,0.4,8,5,63.55,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+38.5,6,1,0.6,1,8,7.7,184.25,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+39.1,5,1,1,0.3,7.4,8.2,86.68,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+39.5,6,1,0.54,0.5,8,9.2,84.81,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+40,6,0.75,1,0.5,8,13.1,160,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+40,6,0.75,0.54,1,1,8.8,21.6,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+40,6,0.75,0.56,1,1,13.4,22.4,1,,"Mathews - CSA Mine, Cobar",From Mathews et al 1980.
+41,6,1,0.3,0.3,7.4,6,27.27,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+43,4,1,0.48,1,8,8.8,163.4,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+43.5,29,1.5,0.5,0.4,1,2.4,8.7,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+43.5,2,1.5,0.2,0.4,1,3.7,3.48,0,,Cannington,Data provided by G. Power (BHP)and C.Scott (Coffey). Pers.comm
+44.25,4,1,0.6,1,8,7.7,210.63,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+44.5,3,1,0.46,1,8,4.3,162.11,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+45.5,3,1,0.24,1,8,7.2,85.94,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+47,3,1,0.1,1,8,6,37.6,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+48,3,1,0.48,1,8,6.1,186,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+48.6,5,1,0.46,1,6.8,5.8,151.67,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+50.87,4.7,1,1,0.3,8,5,122.09,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+51.25,4.8,1,1,0.4,8,9,164,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+51.75,2,1,0.54,0.8,8,10.3,177.78,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+61,3,1,0.48,0.8,5,4.5,116.87,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+61,3,1,0.48,1,6.8,7.8,196.58,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+61.33,3,1,0.48,0.3,8,8.8,69.92,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
+65.33,3,1,0.72,0.3,8,6.7,112.7,0,,Mt Charlotte,"BART project P447 Report, July 1997 by Trueman etal."
